@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertarCliente_EntityFrameWork", "InsertarCliente_EntityFrameWork\InsertarCliente_EntityFrameWork.csproj", "{23FD789E-91C6-4929-BF30-DE93797C05EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccesoDatos", "AccesoDatos\AccesoDatos.csproj", "{19CC5E1F-34A3-4A57-8927-E1B7061F3147}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23FD789E-91C6-4929-BF30-DE93797C05EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23FD789E-91C6-4929-BF30-DE93797C05EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23FD789E-91C6-4929-BF30-DE93797C05EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23FD789E-91C6-4929-BF30-DE93797C05EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19CC5E1F-34A3-4A57-8927-E1B7061F3147}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19CC5E1F-34A3-4A57-8927-E1B7061F3147}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19CC5E1F-34A3-4A57-8927-E1B7061F3147}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19CC5E1F-34A3-4A57-8927-E1B7061F3147}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB0B747F-BB37-4DF5-B091-F5E3D8C0EF25}
+	EndGlobalSection
+EndGlobal
